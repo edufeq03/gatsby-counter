@@ -1,0 +1,2 @@
+# gatsby-counter
+Counter page
